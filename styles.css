@@ -1,0 +1,93 @@
+.instagram {
+
+
+    margin-left: 25rem;
+    margin-right: 25rem;
+    margin-top: 20px;
+    flex-direction: column;
+
+    
+
+}
+
+.titulo {
+
+    text-align: center;
+    height: 60px;
+    background-color: white;
+    margin:0 auto;
+
+
+}
+
+body{
+
+    margin: 0 auto;
+background-color:grey;
+
+}
+
+h1{
+
+    margin-top: 0px;
+    padding-top: 10px;
+
+}
+
+.post1{
+
+    width: 500px;
+    height: 500px;
+    background-color: white;
+    margin-top: 10px;
+    
+
+
+
+}
+
+img{
+
+object-fit: cover;
+height: 350px;
+width: 500px;
+margin-bottom: 25;
+
+
+}
+
+.titulo-post{
+
+height: 50px;
+width: 500px;
+display: inline-flex;
+margin-bottom: 31px;
+
+
+}
+
+h2{
+
+    float: left;
+    margin: 0 auto;
+    width: 400px;
+    padding: 7px;
+    
+}
+
+span{
+
+    float: right;
+    padding: 13px;
+}
+
+p{
+
+    padding: 10px;
+    
+}
+
+.descripcion{
+
+    margin-bottom: 300px;
+}
